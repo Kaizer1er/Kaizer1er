@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Edi V. TRA!</h1>
 
 <h3 align="center">🌍 Geomatician | GIS Developer | Ph.D Student in Remote Sensing</h3>
@@ -9,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🌍 Geomatician passionate about **Geographic Information Systems (GIS)**.
 - 🗺️ Interested in mapping, spatial analysis, and remote sensing.
@@ -20,7 +19,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **GIS & Geospatial Technologies**
 
@@ -51,32 +50,19 @@
 
 ---
 
-### 🔬 Areas of Interest
+### Areas of Interest
 
 - 🛰️ Remote Sensing and Satellite Image Processing.
-- 🌳 Environmental Geomatics.
-- 🌫️ Air Pollution Modeling and Mapping.
+- 🌫  Air Pollution Modeling and Mapping.
 - 🌾 Precision Agriculture and Crop Yield Estimation.
 - 🏙️ Urban Planning and Land Management.
 - 🤖 Artificial Intelligence and Machine Learning for GIS.
 - 📍 Spatial Analysis and Geographical Modeling.
+- 🍂 Environmental Geomatics.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaizer1er&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizer1er&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/edi-val%C3%A8re-tra/" target="_blank">
@@ -94,5 +80,5 @@
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+  😊 Thanks for visiting my GitHub profile!
 </p>
